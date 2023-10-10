@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Edt12
 - 👀 I’m interested in computers and software development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java and studying computer science at university
 - 📫 How to reach me through github or through email at edt12@duck.com
 
 <!---
