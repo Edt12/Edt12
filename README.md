@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Edt12
+Hi, I’m @Edt12
+
 I enjoy programming cool things!!!
 
 I study computer science at Swansea University
