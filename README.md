@@ -2,9 +2,10 @@ Hi, I’m @Edt12
 
 I enjoy programming cool things!!!
 
-I study computer science at Swansea University
+I graduated in Computer Science from Swansea University with a first.
 
-I currently use Python,C++ and Java
+I currently use Python,C++ and Java, I also have a strong interest in computer graphics and have made multiple programs using OpenGL namely my 3D Renderer and photo editor.
+
 
 <!---
 Edt12/Edt12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
